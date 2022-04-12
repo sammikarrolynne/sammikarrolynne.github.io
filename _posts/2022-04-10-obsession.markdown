@@ -4,6 +4,6 @@ date:   2022-04-10 16:23:00 -0500
 categories: technical-writing board-games
 ---
 
-I wrote this and here's my entire life story recipe style
+Obsession is one of my favorite boardgames, so I decided to create a condensed version of the rules to make it quicker to teach to quests who might want to play.
 
- [Here's my cool guide!](/assets/obsession-guide.pdf)
+ [Here's the PDF to the quick reference guide.](/assets/obsession-guide.pdf)
