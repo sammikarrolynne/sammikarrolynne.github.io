@@ -1,0 +1,7 @@
+---
+title:  "Recipes"
+date:   2022-04-16 20:23:00 -0500
+categories: recipes
+---
+
+ [Strawberry Orange Scones Recipe](/assets/Strawberry_Orange_Scones.pdf)
