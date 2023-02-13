@@ -1,0 +1,1 @@
+[Selective Mutism Pamphlet.](/assets/pamphlet_in_white.pdf)

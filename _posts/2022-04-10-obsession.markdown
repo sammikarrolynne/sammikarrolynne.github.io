@@ -6,4 +6,4 @@ categories: technical-writing board-games
 
 Obsession is one of my favorite boardgames, so I decided to create a condensed version of the rules to make it quicker to teach to quests who might want to play.
 
- [Here's the PDF to the quick reference guide.](/assets/obsession-guide.pdf)
+ [Obsession Quick Reference Guide.](/assets/obsession-guide.pdf)
