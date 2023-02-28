@@ -16,3 +16,10 @@ layout: home
 [Product Descriptions]({% post_url 2023-02-10-product-descriptions %})
 
 [Pamphlets]({% post_url 2023-02-12-Pamphlets %})
+
+[Research]({% post_url 2023-02-28-research %})
+
+---
+
+[Google Docs Technical Writing Portfolio](https://docs.google.com/document/d/1at6MyREDKKcXeKC7qLtsrhO5_AXwRBLTMuf_vNop7G4/edit?usp=sharing)
+
