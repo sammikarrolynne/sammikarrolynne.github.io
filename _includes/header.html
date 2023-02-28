@@ -7,7 +7,10 @@
 
       <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <p><a href={% link about.markdown %}>About Me</a></p>
+      <div style="display:flex;">
+        <p style="margin-right: 1rem;"><a href={% link about.markdown %}>About Me</a></p>
+        <p><a href={% link resume.markdown %}>Resume</a></p>  
+      </div>
       {% if site.show_downloads %}
         <section id="downloads">
           <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
